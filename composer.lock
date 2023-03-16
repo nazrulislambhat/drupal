@@ -2173,16 +2173,16 @@
         },
         {
             "name": "drupal/core-project-message",
-            "version": "9.2.10",
+            "version": "9.5.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
-                "reference": "812d6da43dd49cc210af62e80fa92189e68e565a"
+                "reference": "5dfa0b75a057caf6542be67f61e7531c737db48c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-project-message/zipball/812d6da43dd49cc210af62e80fa92189e68e565a",
-                "reference": "812d6da43dd49cc210af62e80fa92189e68e565a",
+                "url": "https://api.github.com/repos/drupal/core-project-message/zipball/5dfa0b75a057caf6542be67f61e7531c737db48c",
+                "reference": "5dfa0b75a057caf6542be67f61e7531c737db48c",
                 "shasum": ""
             },
             "require": {
@@ -2198,6 +2198,7 @@
                     "Drupal\\Composer\\Plugin\\ProjectMessage\\": "."
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "GPL-2.0-or-later"
             ],
@@ -2205,7 +2206,11 @@
             "homepage": "https://www.drupal.org/project/drupal",
             "keywords": [
                 "drupal"
-            ]
+            ],
+            "support": {
+                "source": "https://github.com/drupal/core-project-message/tree/9.5.5"
+            },
+            "time": "2022-02-24T17:40:53+00:00"
         },
         {
             "name": "drupal/core-recommended",
